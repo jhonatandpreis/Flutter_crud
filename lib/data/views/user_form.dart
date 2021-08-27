@@ -34,7 +34,7 @@ class _UserFormState extends State<UserForm> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Formulário de Usuárioss]'),
+        title: Text('Formulário de Usuários]'),
         actions: <Widget>[
           IconButton(
             onPressed: () {
